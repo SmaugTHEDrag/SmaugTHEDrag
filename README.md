@@ -4,8 +4,8 @@ Aspiring Java Backend Developer | Full-stack experience with JWT Auth, AI Chatbo
 
 📫 Contact:
 - LinkedIn: [linkedin.com/in/nguyenpham](https://www.linkedin.com/in/nguyenpham/)
-- Email: nguyenpham@example.com
-- Phone: +84 123 456 789
+- Email: thainguyen122004@gmail.com
+- Phone: +84 0866984218
 
 ## Featured Project
 - [Book Management Platform](https://ptn-book-storage.netlify.app) – Full-stack app with user auth, book search, favorites, blogs, likes, and nested comments.
@@ -13,7 +13,6 @@ Aspiring Java Backend Developer | Full-stack experience with JWT Auth, AI Chatbo
   - Frontend: [GitHub](https://github.com/SmaugTHEDrag/book_management_frontend)
   - Walkthrough: [YouTube](https://youtu.be/uis-1R07yUM)
 
-## Skills
 ## Skills
 
 **Programming Languages:** Java, Python, C++  
