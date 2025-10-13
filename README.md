@@ -1,4 +1,4 @@
-# Nguyen Pham – Java Backend Intern
+# Thai Nguyen Pham – Java Backend Intern
 Aspiring Java Backend Developer | Full-stack experience with JWT Auth, AI Chatbot, optimized relational DB
 
 ## Featured Project
