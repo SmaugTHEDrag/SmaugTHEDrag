@@ -1,14 +1,32 @@
-# Thai Nguyen Pham – Java Backend Intern
+# Thai Nguyen Pham
 
-Aspiring Java Backend Developer | Full-stack experience with JWT Auth, AI Chatbot, optimized relational DB
+### Software Engineer | Java Backend & Full-stack Developer
 
-📫 Contact: [LinkedIn](https://www.linkedin.com/in/nguyenpham/) | Email: thainguyen122004@gmail.com | Phone: +84 0866984218
+Experience with Java/Spring Boot, React/TypeScript, and Node.js. Worked with international clients from Australia and Singapore.
 
-## Featured Project
-- [Book Management Platform](https://ptn-book-storage.netlify.app) – Full-stack app with user auth, book search, favorites, blogs, likes, and nested comments.
-  - Backend: [GitHub](https://github.com/SmaugTHEDrag/book_management_backend)
-  - Frontend: [GitHub](https://github.com/SmaugTHEDrag/book_management_frontend)
-  - Walkthrough: [YouTube](https://youtu.be/uis-1R07yUM)
+📫 [LinkedIn](https://www.linkedin.com/in/nguyenpham/) | [Email](mailto:thainguyen122004@gmail.com)
 
-## Skills
-Java, Python, C++, Spring Boot, Spring Security, JPA/Hibernate, REST APIs, JWT, FastAPI, MySQL, PostgreSQL, React, Tailwind CSS, HTML/CSS/JS, Git, Postman, Swagger, Cloudinary, Docker, AI Chatbot, Teamwork, Problem-solving
+## 💼 Experience
+
+**Fullstack Developer — Starack**  
+Mar 2025 – May 2026
+
+**Research Intern — MMLAB, UIT**  
+Apr 2024 – Aug 2024
+
+## 🚀 Featured Project
+
+**BookManagement — Digital Library Platform**
+
+Java/Spring Boot full-stack application with JWT authentication, role-based authorization, AI integration, book management, blogs, reviews, and Docker.
+
+**Tech:** Java, Spring Boot, Spring Security, JPA/Hibernate, MySQL, React, TypeScript, Docker
+
+[Backend](https://github.com/SmaugTHEDrag/book_management_backend) | [Frontend](https://github.com/SmaugTHEDrag/book_management_frontend) | [Live Demo](https://ptn-book-storage.netlify.app/)
+
+## 🛠️ Skills
+
+**Backend:** Java, Spring Boot, Spring Security, JPA/Hibernate, Node.js  
+**Frontend:** React, TypeScript  
+**Database:** PostgreSQL, MySQL, MongoDB  
+**Tools:** Docker, Git, Redis, RabbitMQ
